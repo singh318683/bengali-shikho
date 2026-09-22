@@ -1,0 +1,9 @@
+{
+  "appId": "com.ikshana.bengalishikho",
+  "appName": "Bengali Shikho",
+  "webDir": "www",
+  "backgroundColor": "#FBF6EE",
+  "ios": {
+    "contentInset": "always"
+  }
+}

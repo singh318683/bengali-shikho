@@ -1,0 +1,446 @@
+[
+  {
+    "te": "নমস্কার",
+    "rom": "nomoshkar"
+  },
+  {
+    "te": "কেমন আছেন?",
+    "rom": "kemon achhen?"
+  },
+  {
+    "te": "আমি ভালো আছি",
+    "rom": "ami bhalo achhi"
+  },
+  {
+    "te": "ধন্যবাদ",
+    "rom": "dhonnobad"
+  },
+  {
+    "te": "আবার দেখা হবে",
+    "rom": "abar dekha hobe"
+  },
+  {
+    "te": "একটু শুনুন",
+    "rom": "ektu shunun"
+  },
+  {
+    "te": "সুপ্রভাত",
+    "rom": "suprobhat"
+  },
+  {
+    "te": "শুভ রাত্রি",
+    "rom": "shubho ratri"
+  },
+  {
+    "te": "দুঃখিত",
+    "rom": "dukhito"
+  },
+  {
+    "te": "কোনো সমস্যা নেই",
+    "rom": "kono somossha nei"
+  },
+  {
+    "te": "হ্যাঁ",
+    "rom": "hyan"
+  },
+  {
+    "te": "না",
+    "rom": "na"
+  },
+  {
+    "te": "হতে পারে",
+    "rom": "hote pare"
+  },
+  {
+    "te": "আমি জানি না",
+    "rom": "ami jani na"
+  },
+  {
+    "te": "ঠিক আছে",
+    "rom": "thik achhe"
+  },
+  {
+    "te": "সব ঠিক আছে",
+    "rom": "shob thik achhe"
+  },
+  {
+    "te": "আপনার নাম কী?",
+    "rom": "apnar naam ki?"
+  },
+  {
+    "te": "আমার নাম রাজ",
+    "rom": "amar naam Raj"
+  },
+  {
+    "te": "আপনি কোথায় থাকেন?",
+    "rom": "apni kothay thaken?"
+  },
+  {
+    "te": "আমি আমেরিকায় থাকি",
+    "rom": "ami America-y thaki"
+  },
+  {
+    "te": "আপনার সাথে দেখা হয়ে ভালো লাগলো",
+    "rom": "apnar shathe dekha hoye bhalo laglo"
+  },
+  {
+    "te": "আমি বুঝতে পারছি না",
+    "rom": "ami bujhte parchi na"
+  },
+  {
+    "te": "আবার বলুন",
+    "rom": "abar bolun"
+  },
+  {
+    "te": "আস্তে বলুন",
+    "rom": "aste bolun"
+  },
+  {
+    "te": "এটা বাংলায় কীভাবে বলে?",
+    "rom": "eta Bangla-y kivabe bole?"
+  },
+  {
+    "te": "আমি একটু বাংলা জানি",
+    "rom": "ami ektu Bangla jani"
+  },
+  {
+    "te": "আপনি বাংলা জানেন?",
+    "rom": "apni Bangla janen?"
+  },
+  {
+    "te": "মা",
+    "rom": "maa"
+  },
+  {
+    "te": "বাবা",
+    "rom": "baba"
+  },
+  {
+    "te": "দাদা",
+    "rom": "dada"
+  },
+  {
+    "te": "দিদি",
+    "rom": "didi"
+  },
+  {
+    "te": "পরিবার",
+    "rom": "poribar"
+  },
+  {
+    "te": "ঠাকুরদা",
+    "rom": "thakurda"
+  },
+  {
+    "te": "ঠাকুমা",
+    "rom": "thakuma"
+  },
+  {
+    "te": "দাদু",
+    "rom": "dadu"
+  },
+  {
+    "te": "দিদা",
+    "rom": "dida"
+  },
+  {
+    "te": "জেঠু",
+    "rom": "jethu"
+  },
+  {
+    "te": "কাকা",
+    "rom": "kaka"
+  },
+  {
+    "te": "পিসি",
+    "rom": "pishi"
+  },
+  {
+    "te": "মামা",
+    "rom": "mama"
+  },
+  {
+    "te": "মাসি",
+    "rom": "mashi"
+  },
+  {
+    "te": "ও আমার দাদা",
+    "rom": "o amar dada"
+  },
+  {
+    "te": "ও আমার দিদি",
+    "rom": "o amar didi"
+  },
+  {
+    "te": "উনি আমার মা",
+    "rom": "uni amar maa"
+  },
+  {
+    "te": "উনি আমার বাবা",
+    "rom": "uni amar baba"
+  },
+  {
+    "te": "আপনার পরিবারে কে কে আছেন?",
+    "rom": "apnar poribar-e ke ke achhen?"
+  },
+  {
+    "te": "আমার পরিবারে চারজন আছেন",
+    "rom": "amar poribar-e charjon achhen"
+  },
+  {
+    "te": "এক",
+    "rom": "ek"
+  },
+  {
+    "te": "দুই",
+    "rom": "dui"
+  },
+  {
+    "te": "তিন",
+    "rom": "tin"
+  },
+  {
+    "te": "চার",
+    "rom": "char"
+  },
+  {
+    "te": "পাঁচ",
+    "rom": "pach"
+  },
+  {
+    "te": "ছয়",
+    "rom": "chhoy"
+  },
+  {
+    "te": "সাত",
+    "rom": "shat"
+  },
+  {
+    "te": "আট",
+    "rom": "aat"
+  },
+  {
+    "te": "নয়",
+    "rom": "noy"
+  },
+  {
+    "te": "দশ",
+    "rom": "dosh"
+  },
+  {
+    "te": "সোমবার",
+    "rom": "sombar"
+  },
+  {
+    "te": "মঙ্গলবার",
+    "rom": "mongolbar"
+  },
+  {
+    "te": "বুধবার",
+    "rom": "budhbar"
+  },
+  {
+    "te": "বৃহস্পতিবার",
+    "rom": "brihoshpotibar"
+  },
+  {
+    "te": "শুক্রবার",
+    "rom": "shukrobar"
+  },
+  {
+    "te": "শনিবার",
+    "rom": "shonibar"
+  },
+  {
+    "te": "রবিবার",
+    "rom": "robibar"
+  },
+  {
+    "te": "জল",
+    "rom": "jol"
+  },
+  {
+    "te": "চা",
+    "rom": "cha"
+  },
+  {
+    "te": "দুধ",
+    "rom": "dudh"
+  },
+  {
+    "te": "ভাত",
+    "rom": "bhat"
+  },
+  {
+    "te": "ডাল",
+    "rom": "dal"
+  },
+  {
+    "te": "রুটি",
+    "rom": "ruti"
+  },
+  {
+    "te": "আমার খিদে পেয়েছে",
+    "rom": "amar khide peyechhe"
+  },
+  {
+    "te": "আমার তেষ্টা পেয়েছে",
+    "rom": "amar teshta peyechhe"
+  },
+  {
+    "te": "খাবার তৈরি",
+    "rom": "khabar toiri"
+  },
+  {
+    "te": "আমি আসছি",
+    "rom": "ami aschhi"
+  },
+  {
+    "te": "চলুন খাওয়া যাক",
+    "rom": "cholun khawa jaak"
+  },
+  {
+    "te": "আমাকে একটু জল দিন",
+    "rom": "amake ektu jol din"
+  },
+  {
+    "te": "একটু বেশি",
+    "rom": "ektu beshi"
+  },
+  {
+    "te": "যথেষ্ট, ধন্যবাদ",
+    "rom": "jothesto, dhonnobad"
+  },
+  {
+    "te": "এটা খুব সুস্বাদু",
+    "rom": "eta khub sushshadu"
+  },
+  {
+    "te": "আপনি খেয়েছেন?",
+    "rom": "apni kheyechhen?"
+  },
+  {
+    "te": "এটা কী?",
+    "rom": "eta ki?"
+  },
+  {
+    "te": "এটার দাম কত?",
+    "rom": "etar dam koto?"
+  },
+  {
+    "te": "দশ টাকা",
+    "rom": "dosh taka"
+  },
+  {
+    "te": "অনেক দাম বেশি",
+    "rom": "onek dam beshi"
+  },
+  {
+    "te": "একটু কমান",
+    "rom": "ektu koman"
+  },
+  {
+    "te": "আমার এটা চাই",
+    "rom": "amar eta chai"
+  },
+  {
+    "te": "অন্য একটা দেখান",
+    "rom": "onyo ekta dekhan"
+  },
+  {
+    "te": "এটা কোথায়?",
+    "rom": "eta kothay?"
+  },
+  {
+    "te": "এখানে আসুন",
+    "rom": "ekhane ashun"
+  },
+  {
+    "te": "সোজা যান",
+    "rom": "shoja jaan"
+  },
+  {
+    "te": "বাম দিকে",
+    "rom": "baam dike"
+  },
+  {
+    "te": "ডান দিকে",
+    "rom": "daan dike"
+  },
+  {
+    "te": "এখানে থামুন",
+    "rom": "ekhane thamun"
+  },
+  {
+    "te": "খুব ভালো",
+    "rom": "khub bhalo"
+  },
+  {
+    "te": "আমার খুব ভালো লেগেছে",
+    "rom": "amar khub bhalo legechhe"
+  },
+  {
+    "te": "আমার পছন্দ হয়েছে",
+    "rom": "amar pochhondo hoyechhe"
+  },
+  {
+    "te": "চিন্তা করবেন না",
+    "rom": "chinta korben na"
+  },
+  {
+    "te": "আহা!",
+    "rom": "aha!"
+  },
+  {
+    "te": "শুভ নববর্ষ",
+    "rom": "shubho noboborsho"
+  },
+  {
+    "te": "শুভ দুর্গাপূজা",
+    "rom": "shubho Durga Puja"
+  },
+  {
+    "te": "শুভ দীপাবলি",
+    "rom": "shubho Dipaboli"
+  },
+  {
+    "te": "শুভ জন্মদিন",
+    "rom": "shubho jonmodin"
+  },
+  {
+    "te": "শুভ বিজয়া",
+    "rom": "shubho Bijoya"
+  },
+  {
+    "te": "দুর্গাপূজা",
+    "rom": "Durga Puja"
+  },
+  {
+    "te": "ঢাক",
+    "rom": "dhaak"
+  },
+  {
+    "te": "অঞ্জলি",
+    "rom": "anjali"
+  },
+  {
+    "te": "প্রতিমা",
+    "rom": "protima"
+  },
+  {
+    "te": "আসুন দুর্গাপূজা উদযাপন করি",
+    "rom": "ashun Durga Puja udjapon kori"
+  },
+  {
+    "te": "পয়লা বৈশাখ",
+    "rom": "Poila Boishakh"
+  },
+  {
+    "te": "হালখাতা",
+    "rom": "haal khata"
+  },
+  {
+    "te": "মিষ্টি",
+    "rom": "mishti"
+  }
+]
